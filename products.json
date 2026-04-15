@@ -13,5 +13,9 @@
     "name": "Bonewell",
     "pdf": "https://drive.google.com/file/d/1AucldOEUUnjBK0qr-c9FB9jPHcVUDQRx/preview",
     "image": "https://raw.githubusercontent.com/enginikon/products/main/bonewell-30.jpg"
-  }
-]
+  },
+{
+  "name": "Tordalfer",
+  "pdf": "https://drive.google.com/file/d/1yctW0hTHO8VH16JCcIdbQ0Ydbx0Sy85t/preview",
+  "image": "https://reactnative.dev/img/tiny_logo.png"
+}
