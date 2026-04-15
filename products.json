@@ -2,31 +2,11 @@
   {
     "name": "Omegamix",
     "pdf": "https://drive.google.com/file/d/12KXen9BWN7A50_4n2ZsTss1DJJhd32aB/preview",
-    "https://raw.githubusercontent.com/enginikon/products/main/omegamix-30.jpg"
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/omegamix-30.jpg"
   },
   {
     "name": "Poliversin",
     "pdf": "https://drive.google.com/file/d/1fh6aC2aUfbpTHXGkQR_QUGsa3whz71Pa/preview",
-    "image": "https://via.placeholder.com/300"
-  },
-  {
-    "name": "Bonewell",
-    "pdf": "https://drive.google.com/file/d/1AucldOEUUnjBK0qr-c9FB9jPHcVUDQRx/preview",
-    "image": "https://via.placeholder.com/300"
-  },
-  {
-    "name": "Tordalfer",
-    "pdf": "https://drive.google.com/file/d/1yctW0hTHO8VH16JCcIdbQ0Ydbx0Sy85t/preview",
-    "image": "https://via.placeholder.com/300"
-  },
-  {
-    "name": "Shina Derm Beyazlatıcı Krem",
-    "pdf": "https://drive.google.com/file/d/1LdM2ry1pdCqFpjjh--0L3aBVY0R-BUkO/preview",
-    "image": "https://via.placeholder.com/300"
-  },
-  {
-    "name": "Shina Derm Çatlak Kremi",
-    "pdf": "https://drive.google.com/file/d/1oCNE3IBmHCaRuIYZB-gJfBeE1MQM5SQ0/preview",
-    "image": "https://via.placeholder.com/300"
+    "image": "https://reactnative.dev/img/tiny_logo.png"
   }
 ]
