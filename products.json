@@ -1,78 +1,77 @@
 [
   {
-  "name": "Omegamix",
-  "pdf": "https://drive.google.com/file/d/12KXen9BWN7A50_4n2ZsTss1DJJhd32aB/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/omegamix-30.jpg"
-},
-{
-  "name": "Poliversin",
-  "pdf": "https://drive.google.com/file/d/1fh6aC2aUfbpTHXGkQR_QUGsa3whz71Pa/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/poliversin-60.jpg"
-},
-{
-  "name": "Bonewell",
-  "pdf": "https://drive.google.com/file/d/1ztqs1oIxlqz-KBrZOVh8Hbzr4CX2GBbO/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/bonewell-30.jpg"
-},
-{
-  "name": "Tordalfer",
-  "pdf": "https://drive.google.com/file/d/1yctW0hTHO8VH16JCcIdbQ0Ydbx0Sy85t/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/tordalfer-30.jpg"
-},
+    "name": "Omegamix",
+    "pdf": "https://drive.google.com/uc?export=download&id=12KXen9BWN7A50_4n2ZsTss1DJJhd32aB",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/omegamix-30.jpg"
+  },
   {
-  "name": "Magnorth",
-  "pdf": "https://drive.google.com/file/d/1kyZLzh0Wu2T_Q9LhZJ9p684W4f7xcwg0/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/magnorth-30.jpg?v=1"
-},
+    "name": "Poliversin",
+    "pdf": "https://drive.google.com/uc?export=download&id=1fh6aC2aUfbpTHXGkQR_QUGsa3whz71Pa",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/poliversin-60.jpg"
+  },
   {
-  "name": "Gebyfoll",
-  "pdf": "https://drive.google.com/file/d/1ZMisdm_u_tEqcbONNC0Gm5NCuzeJE0v9/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/gebyfoll-90-takviye-edici-gida-1100x1100-1100x1100.jpg?v=1"
-},
+    "name": "Bonewell",
+    "pdf": "https://drive.google.com/uc?export=download&id=1ztqs1oIxlqz-KBrZOVh8Hbzr4CX2GBbO",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/bonewell-30.jpg"
+  },
   {
-  "name": "Indunnmen",
-  "pdf": "https://drive.google.com/file/d/1kTCjjJwYOgkTPfxKT6osG_zECPbow6UL/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/indunn-men.png"
-},
+    "name": "Tordalfer",
+    "pdf": "https://drive.google.com/uc?export=download&id=1yctW0hTHO8VH16JCcIdbQ0Ydbx0Sy85t",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/tordalfer-30.jpg"
+  },
   {
-  "name": "Menessa",
-  "pdf": "https://drive.google.com/file/d/1r-34Qa1wyzAGxYBxiDG4dRJX7pV0eqet/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/menessa-30.png"
-},
+    "name": "Magnorth",
+    "pdf": "https://drive.google.com/uc?export=download&id=1kyZLzh0Wu2T_Q9LhZJ9p684W4f7xcwg0",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/magnorth-30.jpg"
+  },
   {
-  "name": "Miafemin",
-  "pdf": "https://drive.google.com/file/d/1lFIXQsVS9KnlElOxnctoDqS9laTTfxYt/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/miafemin-30.png"
-},
-{
-  "name": "Shina Derm Beyazlatıcı Krem",
-  "pdf": "https://drive.google.com/file/d/1LdM2ry1pdCqFpjjh--0L3aBVY0R-BUkO/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/shinadermbeyazlatici.png"
-},
-{
-  "name": "Shina Derm Çatlak Kremi",
-  "pdf": "https://drive.google.com/file/d/1oCNE3IBmHCaRuIYZB-gJfBeE1MQM5SQ0/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/ShinaCatlak.png"
-},
+    "name": "Gebyfoll",
+    "pdf": "https://drive.google.com/uc?export=download&id=1ZMisdm_u_tEqcbONNC0Gm5NCuzeJE0v9",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/gebyfoll-90-takviye-edici-gida-1100x1100-1100x1100.jpg"
+  },
   {
-  "name": "Shina Derm Intim Jel",
-  "pdf": "https://drive.google.com/file/d/17gmvMMWLjFZSlIHN_Bkjz-d-9hVBzdF6/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/intimjel.png"
-},
+    "name": "Indunnmen",
+    "pdf": "https://drive.google.com/uc?export=download&id=1kTCjjJwYOgkTPfxKT6osG_zECPbow6UL",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/indunn-men.png"
+  },
   {
-  "name": "Shina Derm Mendil",
-  "pdf": "https://drive.google.com/file/d/1dBBoHix8FgoYM8fU9rhyJZNJxMaFvNuu/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/shinadermmendil.png?"
-},
+    "name": "Menessa",
+    "pdf": "https://drive.google.com/uc?export=download&id=1r-34Qa1wyzAGxYBxiDG4dRJX7pV0eqet",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/menessa-30.png"
+  },
   {
-  "name": "Tendoliga",
-  "pdf": "https://drive.google.com/file/d/1ptM9pvL1XbFxcuDHLx6Zj0vya8ziW9CD/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/tendoliga-60.png"
-},
+    "name": "Miafemin",
+    "pdf": "https://drive.google.com/uc?export=download&id=1lFIXQsVS9KnlElOxnctoDqS9laTTfxYt",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/miafemin-30.png"
+  },
   {
-  "name": "Arthrodeese",
-  "pdf": "https://drive.google.com/file/d/1D7APSTsEQfflUWkSm4UxTpbCOrg4fg3T/preview?embedded=true",
-  "image": "https://raw.githubusercontent.com/enginikon/products/main/arthrodeese-60.jpg?v=1"
-}
+    "name": "Shina Derm Beyazlatıcı Krem",
+    "pdf": "https://drive.google.com/uc?export=download&id=1LdM2ry1pdCqFpjjh--0L3aBVY0R-BUkO",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/shinadermbeyazlatici.png"
+  },
+  {
+    "name": "Shina Derm Çatlak Kremi",
+    "pdf": "https://drive.google.com/uc?export=download&id=1oCNE3IBmHCaRuIYZB-gJfBeE1MQM5SQ0",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/ShinaCatlak.png"
+  },
+  {
+    "name": "Shina Derm Intim Jel",
+    "pdf": "https://drive.google.com/uc?export=download&id=17gmvMMWLjFZSlIHN_Bkjz-d-9hVBzdF6",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/intimjel.png"
+  },
+  {
+    "name": "Shina Derm Mendil",
+    "pdf": "https://drive.google.com/uc?export=download&id=1dBBoHix8FgoYM8fU9rhyJZNJxMaFvNuu",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/shinadermmendil.png"
+  },
+  {
+    "name": "Tendoliga",
+    "pdf": "https://drive.google.com/uc?export=download&id=1ptM9pvL1XbFxcuDHLx6Zj0vya8ziW9CD",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/tendoliga-60.png"
+  },
+  {
+    "name": "Arthrodeese",
+    "pdf": "https://drive.google.com/uc?export=download&id=1D7APSTsEQfflUWkSm4UxTpbCOrg4fg3T",
+    "image": "https://raw.githubusercontent.com/enginikon/products/main/arthrodeese-60.jpg"
+  }
 ]
-
