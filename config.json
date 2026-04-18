@@ -1,5 +1,6 @@
 {
-  "backgroundColor": "#000000",
-  "cardColor": "#00ff00",
-  "textColor": "#ffffff"
+  "backgroundColor": "#f4f6f8",
+  "cardColor": "#e5e7eb",
+  "textColor": "#111111",
+  "buttonColor": "#0057ff"
 }
